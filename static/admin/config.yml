@@ -3,7 +3,7 @@ backend:
   branch: main # Branch to update
   repo: disdroid/disdroid.netlify.app # Repo for pushing new commits. Make sure to replace with your repo!
 
-media_folder: static/assets
+media_folder: content/assets
 public_folder: assets
 
 collections:
