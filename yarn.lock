@@ -8661,7 +8661,7 @@
     "lodash" "^4.17.21"
     "node-fetch" "^2.6.1"
 
-"gatsby-theme-advanced-demo@file:/home/disdroid/srv/disdroid.vercel.app/examples/advanced-demo":
+"gatsby-theme-advanced-demo@file:/srv/repos/disdroid.vercel.app/examples/advanced-demo":
   "resolved" "file:examples/advanced-demo"
   "version" "4.0.0"
   dependencies:
@@ -8675,7 +8675,7 @@
     "react-helmet" "^6.1.0"
     "react-share" "^4.4.0"
 
-"gatsby-theme-advanced@*", "gatsby-theme-advanced@file:/home/disdroid/srv/disdroid.vercel.app/themes/advanced":
+"gatsby-theme-advanced@*", "gatsby-theme-advanced@file:/srv/repos/disdroid.vercel.app/themes/advanced":
   "resolved" "file:themes/advanced"
   "version" "4.0.0"
   dependencies:
@@ -8732,7 +8732,7 @@
     "ts-node" "^10.4.0"
     "url-join" "^4.0.1"
 
-"gatsby-theme-amaranth-demo@file:/home/disdroid/srv/disdroid.vercel.app/examples/amaranth-demo":
+"gatsby-theme-amaranth-demo@file:/srv/repos/disdroid.vercel.app/examples/amaranth-demo":
   "resolved" "file:examples/amaranth-demo"
   "version" "4.0.0"
   dependencies:
@@ -8744,8 +8744,68 @@
     "react-dom" "^17.0.2"
     "styled-components" "^5.3.3"
 
-"gatsby-theme-amaranth@*", "gatsby-theme-amaranth@file:/home/disdroid/srv/disdroid.vercel.app/themes/amaranth":
+"gatsby-theme-amaranth@*", "gatsby-theme-amaranth@file:/srv/repos/disdroid.vercel.app/themes/amaranth":
   "resolved" "file:themes/amaranth"
+  "version" "4.0.0"
+  dependencies:
+    "@fec/remark-a11y-emoji" "^3.1.0"
+    "@mdx-js/mdx" "^1.6.22"
+    "@mdx-js/react" "^1.6.22"
+    "@styled-icons/boxicons-logos" "^10.38.0"
+    "@styled-icons/boxicons-regular" "^10.38.0"
+    "@styled-icons/styled-icon" "^10.6.3"
+    "@types/mdx-js__react" "^1.5.4"
+    "babel-plugin-styled-components" "^1.13.3"
+    "date-fns" "^2.25.0"
+    "eslint-plugin-graphql" "^4.0.0"
+    "gatsby-image" "^3.11.0"
+    "gatsby-plugin-catch-links" "^4.0.0"
+    "gatsby-plugin-feed" "^4.0.0"
+    "gatsby-plugin-google-gtag" "^4.0.0"
+    "gatsby-plugin-image" "^2.0.0"
+    "gatsby-plugin-lodash" "^5.0.0"
+    "gatsby-plugin-manifest" "^4.0.0"
+    "gatsby-plugin-mdx" "^3.0.0"
+    "gatsby-plugin-netlify-cms" "^6.0.0"
+    "gatsby-plugin-nprogress" "^4.0.0"
+    "gatsby-plugin-offline" "^5.0.0"
+    "gatsby-plugin-page-creator" "^4.0.0"
+    "gatsby-plugin-react-helmet" "^5.0.0"
+    "gatsby-plugin-react-svg" "^3.1.0"
+    "gatsby-plugin-sharp" "^4.0.0"
+    "gatsby-plugin-sitemap" "^5.0.0"
+    "gatsby-plugin-styled-components" "^5.0.0"
+    "gatsby-plugin-twitter" "^4.0.0"
+    "gatsby-remark-autolink-headers" "^5.0.0"
+    "gatsby-remark-copy-linked-files" "^5.0.0"
+    "gatsby-remark-embed-video" "^3.1.1"
+    "gatsby-remark-images" "^6.0.0"
+    "gatsby-remark-prismjs" "^6.0.0"
+    "gatsby-remark-responsive-iframe" "^5.0.0"
+    "gatsby-source-filesystem" "^4.0.0"
+    "gatsby-theme-advanced" "*"
+    "gatsby-transformer-remark" "^5.0.0"
+    "gatsby-transformer-sharp" "^4.0.0"
+    "is-absolute-url" "^3.0.3"
+    "lodash" "^4.17.21"
+    "moment" "^2.29.1"
+    "netlify-cms-app" "^2.15.54"
+    "prism-themes" "^1.9.0"
+    "prismjs" "^1.25.0"
+    "react-color" "^2.19.3"
+    "react-helmet" "^6.1.0"
+    "react-query" "^3.28.0"
+    "react-share" "^4.4.0"
+    "react-twitter-widgets" "^1.10.0"
+    "remark-codesandbox" "^0.10.0"
+    "remark-external-links" "^8.0.0"
+    "remark-unwrap-images" "^2.1.0"
+    "remove-markdown" "^0.3.0"
+    "styled-components" "^5.3.3"
+    "url-join" "^4.0.1"
+
+"gatsby-theme-disdronic@file:themes/disdronic":
+  "resolved" "file:themes/disdronic"
   "version" "4.0.0"
   dependencies:
     "@fec/remark-a11y-emoji" "^3.1.0"
