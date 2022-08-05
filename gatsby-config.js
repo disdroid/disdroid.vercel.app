@@ -5,7 +5,7 @@ module.exports = {
       resolve: "gatsby-theme-disdronic",
       options: {
         website: {
-              title: "DisDroid/IQI : Ochre Cache - #CypherSec research log", // Homepage title
+              title: "DisDroid/IQI : Ochre Cache - #Psipher research log", // Homepage title
               titleShort: "DisDroid:ochre|#ciphersec", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation
               name: "DisDroid/Ochre|#ciphersec", // Website name used for homescreen (PWA) and SEO
               description: "DisDroid/IQI Ochre research log of #ciphersec.", // Website description used for RSS feeds/meta description tag
@@ -15,7 +15,7 @@ module.exports = {
               twitterName: "disdroidi", // Twitter handle of the website
               url: "https://disdroid.vercel.app", // Domain of your website without the pathPrefix
               rss: "/rss.xml", // Path to the RSS file
-              rssTitle: "DisDroid/IQI Ochre research log #ciphersec", // Title of the RSS feed
+              rssTitle: "DisDroid/IQI Ochre research log #ciphersec #psipher", // Title of the RSS feed
 
               googleAnalyticsId: "UA-VALIDID", // GA tracking ID
               copyright: "© Copyright 2022 | DisDroid/IQI", // Copyright string for the footer of the website and RSS feed.
@@ -25,15 +25,15 @@ module.exports = {
         },
 	  // User configuration
         user: {
-    	      id: "DisDroid/IQI:ochre|#ciphersec", // Unique identifier of the user on the website. Used for OpenGraph SEO tags
+    	      id: "DisDroid/IQI:ochre|#psipher", // Unique identifier of the user on the website. Used for OpenGraph SEO tags
               firstName: "DisDroid/IQI", // Used for SEO
-              lastName: "#CipherSec", // Used for SEO
+              lastName: "#PsipherSec", // Used for SEO
               twitterName: "disdroidi", // Twitter username used for SEO
               linkedIn: "your-linkedin", // Used for contact information
               github: "disdroid", // Used for contact information
               email: "iqi@disdroid.co.uk", // Used for contact information and displayed in the RSS feed
               location: "United Kingdom", // User location used for SEO
-              about: "DisDroid/IQI Ochre Research Log", // User information used for the author section
+              about: "DisDroid/IQI Ochre Research Log #Psipher #CipherSec", // User information used for the author section
               avatar: "https://i.pravatar.cc/300", // User avatar used for the author section
         },
 
