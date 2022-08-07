@@ -10,3 +10,9 @@ slug: kirklees-council-cartel
 category: casefiles
 ---
 Threats by housing officers
+
+![](assets/kirklees-council-complaint.png)
+
+![](assets/kirklees-council-threat-1.png)
+
+![](assets/kirklees-council-threat-2.png)
