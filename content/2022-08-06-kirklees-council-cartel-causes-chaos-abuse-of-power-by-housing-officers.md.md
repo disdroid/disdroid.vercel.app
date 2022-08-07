@@ -8,6 +8,19 @@ cover: assets/kirklees-council-threat-2.png
 coverAlt: Kirklees Council cartel threats
 slug: kirklees-council-cartel
 category: casefiles
+tags:
+  - kirklees
+  - kirklees-council
+  - kirklees-housing
+  - disdroid
+  - iqsec
+  - cybersox
+  - psipher
+  - psychosec
+  - osint
+  - cryptosec
+  - coresec
+  - opensec
 ---
 ## Threats by kirklees housing officers
 
