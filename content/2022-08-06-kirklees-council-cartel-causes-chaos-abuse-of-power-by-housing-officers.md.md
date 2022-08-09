@@ -53,3 +53,17 @@ See these photographs to learn the extent of my injuries.
 ![](assets/20220714_045233-scorched-flesh-arm.jpg)
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/B9XCKC9Cu-Y" title="2022 07 07 122328" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This is the car used by the traffickers, both for kerb crawling and for drive-by style assaults with their homemade electro-stun weapon. You can see that the car has a low boot, useful for snatching for example a push-chair or buggy, and also for lifting objects such as heavy rolls of carpet. Furthermore, the car is chosen because it is narrow enough to fit inside another vehicle, ie a lorry, for making cross-channel excursions.
+
+![](assets/291447346_1373820083130160_4600409786983347793_n.jpg)
+
+Stephenson has been seen talking to the car owner, who is now on bail because of the assault. The trafficking car is in the police pound, where it will remain forever more.
+
+This image shows trafficker Stacey Robinson creeping around the property that is being used to gather data on the ring, along with one of her sexual partners, Ricky "bogeyman" Walker the Stalker, who has recently been seen on CCTV creeping around behind residential properties, and stealing childrens clothes from the washing lines.
+
+![](assets/bogey-and-puke.png)
+
+### [Here we see Walker attacking the police when they arrested him.](https://archive.ph/GoXWB)
+
+### [Here we see him biting a shop keeper](https://archive.ph/V2S60)
