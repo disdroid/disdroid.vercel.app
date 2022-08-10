@@ -23,11 +23,11 @@ https://barristerblogger.com/2019/07/31/the-many-lies-of-carl-beech-and-the-foll
 
 A  tiny bit of research would have proven Lord Edwin's innocence, because he is a well known figure in schools and universities where I live, and often expressed regret that he did not have enough time for friends and family due to the nature of his official duties.
 
-He was opposed to the innvasions of Iraq and Afghanistan, and was a firm supporter of the peace process in Ireland.
+He was opposed to the invasions of Iraq and Afghanistan, and was a firm supporter of the peace process in Ireland.
 
-So I had managed to spend time with Sir Edwin, both as an adult and as a child, and I have only the fondest, kindest memories of the man and he was a key influence during my upbringing. He was close friends with several headteachers at schools I attended. He would also chat with homeless people at our local methodist mission.
+So I had managed to spend time with Sir Edwin, both as an adult and as a child, and I have only the fondest, kindest memories of the man and he was a key influence during my upbringing. He was close friends with several headteachers at schools I attended. He would also chat with homeless people at our local Methodist mission.
 
-By no means was Lord Bramall a "recluse" - he was forced into seclusion due to the nature of his work, and took steps to meet real people at every occasion. Whereas pedophile Roy Stobbs had no such duties but seemed to shy from public occurences. Stobbs went everywhere surrounded by his henchmen, whereas Bramall took with him one single guard who was dressed casually.
+By no means was Lord Bramall a "recluse" - he was forced into seclusion due to the nature of his work, and took steps to meet real people at every occasion. Whereas pedophile Roy Stobbs had no such duties but seemed to shy from public occurrences. Stobbs went everywhere surrounded by his henchmen, whereas Bramall took with him one single guard who was dressed casually.
 
 Then one day, a messenger arrived in tears. I could make neither head nor tail of what he was trying to say as he was overcome by grief. Later I found the answer, as described herein.
 
