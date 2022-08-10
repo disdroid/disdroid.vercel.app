@@ -2,7 +2,7 @@
 title: Homeland incursion! Massive material breach by the Met
 description: Is Sadiq Khan a traitor?
 datePublished: 2022-08-09T05:10:54.546Z
-dateModified: 2022-08-09T05:10:54.584Z
+dateModified: 2022-08-10T04:13:56.694Z
 cover: assets/110950749_lord_bramall_trans_nvbqzqnjv4bqoqs0bxrj0vmcthymjmv0p9nym9xd5u1aueuom-clwcu.jpg
 coverAlt: Lord Bramall
 slug: homeland-incursion-metropolitan-police
