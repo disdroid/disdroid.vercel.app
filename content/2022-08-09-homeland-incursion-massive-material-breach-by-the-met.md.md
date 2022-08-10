@@ -27,8 +27,8 @@ He was opposed to the invasions of Iraq and Afghanistan, and was a firm supporte
 
 So I had managed to spend time with Sir Edwin, both as an adult and as a child, and I have only the fondest, kindest memories of the man and he was a key influence during my upbringing. He was close friends with several headteachers at schools I attended. He would also chat with homeless people at our local Methodist mission.
 
-By no means was Lord Bramall a "recluse" - he was forced into seclusion due to the nature of his work, and took steps to meet real people at every occasion. Whereas pedophile Roy Stobbs had no such duties but seemed to shy from public occurrences. Stobbs went everywhere surrounded by his henchmen, whereas Bramall took with him one single guard who was dressed casually.
+By no means was Lord Bramall a "recluse" - he was forced into seclusion due to the nature of his work, and took steps to meet real people at every occasion. Whereas pedophile Roy Stobbs had no such duties but seemed to shy from public occurrences. Stobbs went everywhere surrounded by his henchmen, whereas Bramall took with him one single guard who was dressed casually. Both were frequent donors at the Mission, Stobbs himself having donated a total of almost six pounds GBP during his lifetime. Both their families are amazing people who have been very supportive during this series of crises that has hit our community, still reeling in the aftershock of the Savile cover-up and the Asian male gangs.
 
-Then one day, a messenger arrived in tears. I could make neither head nor tail of what he was trying to say as he was overcome by grief. Later I found the answer, as described herein.
+One day, a messenger arrived in tears. I could make neither head nor tail of what he was trying to say as he was overcome by grief. Later I found the answer, as described herein.
 
 Furthermore, I was directly prevented from finding out, and had my voice silenced by the black barons at Maxwell Press, because I was covertly targeted by the same ring that Carl Beech and his "supporters" (read: actual pedophiles on their blackmail list) comprise.
