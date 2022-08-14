@@ -10,4 +10,10 @@ category: Kirklees
 tags:
   - kirklees-council
 ---
-Tracking the timeline between a series of criminal assaults and suspicious activity by Kirklees Council officials.
+### Tracking the timeline between a series of criminal assaults and suspicious activity by Kirklees Council officials.
+
+Despite having been warned that this matter is now in police hands, rather than wait until the investigation into his involvement in a child trafficking ring is concluded, this councillor panics and decides to escalate.
+
+![](assets/council-escalation.jpg)
+
+![](assets/council-escalation-2.jpg)
