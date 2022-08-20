@@ -14,9 +14,9 @@ tags:
 
 Despite having been warned that this matter is now in police hands, rather than wait until the investigation into his involvement in a child trafficking ring is concluded, this councillor panics and decides to escalate. This was his preference, rather than resolve [the issue described here](https://disdroid.vercel.app/kirklees-council-cartel) by apologising.
 
-![](assets/council-escalation.jpg)
+![Kirklees Council Cartel escalation](assets/council-escalation.jpg)
 
-![](assets/council-escalation-2.jpg)
+![Further escalation by Krklees Housing](assets/council-escalation-2.jpg)
 
 ### Let's go through the issues raised here, one by one.
 
@@ -30,17 +30,15 @@ The "communication into your service" does not fit the legal definition of haras
 
 She was actually parked in her car watching the incident where I was mugged by cartel members in an attempt to steal my mobile device in order to plant false evidence and to harass my contacts, that resulted in these serious injuries to myself:
 
-![](assets/20220714_045233-scorched-flesh-arm.jpg)
+![Injuries caused by Kirklees Council housing officers](assets/20220714_045233-scorched-flesh-arm.jpg)
 
 My only contact with this office, both in private and in public, has been in response to harassment originating at that office!
 
 These are not "officers carrying out their roles" - the original contact, which came a few days before the assault, was a bogus claim that I had unecessary items stored outside my home. The following photographs prove that there are no such items.
 
-![](assets/kirklees-council-complaint.jpg)
+![Bogus complaint from Kirklees Council Housing team](assets/kirklees-council-complaint.jpg)
 
-![]()
-
-![](assets/img_20220622_120207.jpg)
+![Kirklees Council Housing Team attempted to DEMAND the removal of these objects!](assets/img_20220622_120207.jpg)
 
 She appears cognizant of, and even supportive of, the current craze of shoplifting rings going door to door, and dropping in on pubs and shops, selling meat stolen from a local butchers. When apprehended doing their "work", [the gang turn nasty and attack the shop staff](https://archive.ph/V2S60).
 
