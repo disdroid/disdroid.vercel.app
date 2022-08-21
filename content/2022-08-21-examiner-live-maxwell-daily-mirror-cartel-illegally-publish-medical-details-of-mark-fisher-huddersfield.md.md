@@ -1,16 +1,17 @@
 ---
-title: '"Examiner Live" Maxwell/Daily Mirror cartel illegally publish medical
-  details of Mark Fisher, Huddersfield'
-description: The Maxwell Group trafficking cartel publish fraudulent medical
-  details without consent
+title: Maxwell/Mirror/Trichan cartel illegally publish medical details of Mark
+  Fisher, Huddersfield and commit a further data breach
+description: The Maxwell Group/Yorkshire Live trafficking cartel (trichan)
+  publish fraudulent medical details without consent
 datePublished: 2022-08-21T06:14:20.044Z
-dateModified: 2022-08-21T06:14:20.091Z
+dateModified: 2022-08-21T06:54:11.629Z
 cover: assets/mf-mirror.png
 coverAlt: Private medical details fraudulently leaked by Maxwell Press
 slug: maxwell-press-fraudulent-leak-mark-fisher-huddersfield
 category: Casefiles
 tags:
   - psipher
+  - trichan
 ---
 In 2015 Maxwell papers, namely the Daily Mirror and Examiner Live, Huddersfield (also Yorkshire Live) illegally leaked medical details belonging to our researcher.
 
