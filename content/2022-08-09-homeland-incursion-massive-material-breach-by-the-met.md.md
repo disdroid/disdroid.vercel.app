@@ -34,7 +34,7 @@ This is the [daily mirror article about Mark:](https://archive.ph/8Y6km)
 
 ![Daily Mirror publish private medical details without consent](assets/mf-mirror.png)
 
-Another paper owned by the Maxwell press, "The Examiner", also known by the alias "Examiner Live", also [published an article containing private medical information](https://archive.ph/KKloo).
+Another paper owned by the Maxwell press, "**The Examiner (Huddersfield)**", alias "*Examiner Live*", also [published an article containing private medical information](https://archive.ph/KKloo).
 
 ![Huddersfield Examiner publish private medical details without consent](assets/mf-examiner.png)
 
@@ -49,4 +49,8 @@ Notes by the doctor:
 ![Mark Fisher, Huddersfield community discharge notes](assets/discharge-note-thoughts.png)
 
 The evidence produced by the cartel was of course fabricated, comprising manipulated images of his website to conceal the evidence and portray a deliberately offensive version. Rather than learn their lesson, cartel members including police officers have constructed further false evidence sets, which they are now using against him in sequence! 
+
+**Stay de-tuned for up to the minute announcements**
+
+## 
 Let's face it, they're running scared.
